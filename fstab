@@ -11,4 +11,3 @@ UUID=ff4cf389-91ca-4b60-ad90-6f07023bf0b2 /boot                   xfs     defaul
 /dev/mapper/centos-home /home                   xfs     defaults        0 0
 /dev/mapper/centos-var  /var                    xfs     defaults        0 0
 /dev/mapper/centos-swap swap                    swap    defaults        0 0
-/dev/mapper/vg01-lv01 /mnt 			xfs	defaults	0 0
