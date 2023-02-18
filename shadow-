@@ -17,3 +17,4 @@ polkitd:!!:19392::::::
 sshd:!!:19392::::::
 postfix:!!:19392::::::
 test:$6$EsZsLrcVOMyjvNeN$JbuCdoxis974erLCaxFWewjTeaZ.sr1uk.4EMDkPr4kTrdmEtDTudSsaqPKXBLpqwaRDHcqejGKbJJ.g6qctF/::0:99999:7:::
+nginx:!!:19398::::::

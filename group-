@@ -35,3 +35,4 @@ postdrop:x:90:
 postfix:x:89:
 test:x:1000:test
 nginx:x:996:
+cgred:x:995:
