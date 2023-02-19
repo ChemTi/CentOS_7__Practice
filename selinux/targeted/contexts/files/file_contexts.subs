@@ -1,0 +1,6 @@
+/etc/opt/remi/php70 /etc
+/opt/remi/php73/root /
+/opt/remi/php70/root /
+/var/opt/remi/php70 /var
+/var/opt/remi/php73 /var
+/etc/opt/remi/php73 /etc
