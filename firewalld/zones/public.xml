@@ -7,4 +7,5 @@
   <service name="http"/>
   <service name="https"/>
   <port protocol="tcp" port="22"/>
+  <port protocol="tcp" port="8080"/>
 </zone>
